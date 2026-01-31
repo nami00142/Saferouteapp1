@@ -23,7 +23,7 @@ While many navigation apps help with directions, few focus on **user safety in e
 - Starts a **10-second countdown** before sending an **SOS message** automatically.  
 - Sends **live location** via a clickable Google Maps link to authorities.  
 - Quick-call buttons for **Police** and **Women’s Help Line**.
-- ### Safe Zone Mapping
+### Safe Zone Mapping
 - Displays **nearest police stations** using Google Maps component.  
 
 ### Future Enhancements
@@ -51,7 +51,41 @@ While many navigation apps help with directions, few focus on **user safety in e
 ### Connectivity & Social
 - **Texting** - Sends SOS messages automatically to authorities or emergency contacts.  
 - **PhoneCall** - Enables one-tap calling to Police or Women’s Help Line from the Emergency screen.
-- **ActivityStarter** - Opens external applications such as the phone dialer or Google Maps when required.  
+- **ActivityStarter** - Opens external applications such as the phone dialer or Google Maps when required.
+---
+## Application Screens
+
+### 1️⃣ Login Screen
+- User enters name and phone number to authenticate.  
+- Redirected to **Home Screen** after login.  
+
+ 
+
+---
+
+### 2️⃣ Home Screen
+- Three main options: **Safe Route**, **Emergency**, **Safe Zone**.  
+- Clean, user-friendly layout for quick access to safety features.  
+
+*Include screenshot:* `home_screen.png`  
+
+---
+
+### 3️⃣ Emergency Screen
+- Automatically triggered by phone shaking.  
+- 10-second countdown before sending SOS.  
+- Buttons for **Police** and **Women’s Help Line** calls.  
+
+*Include screenshot:* `emergency_screen.png`  
+
+---
+
+### 4️⃣ Safe Zone Map
+- Shows **nearest police stations** relative to user location.  
+- Interactive Google Maps interface.  
+
+*Include screenshot:* `safezone_map.png`  
+
 ---
 
 
