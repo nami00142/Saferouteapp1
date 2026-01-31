@@ -77,7 +77,9 @@ While many navigation apps help with directions, few focus on **user safety in e
 - Buttons for **Police** and **Women’s Help Line** calls.  
 
  ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/emergency%20screen%201.jpeg)
+ 
  ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/SOS%20message.jpeg)
+
  ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/Emergency%20screen%202.jpeg)
 
 ---
@@ -86,7 +88,19 @@ While many navigation apps help with directions, few focus on **user safety in e
 - Shows **nearest police stations** relative to user location.  
 - Interactive Google Maps interface.  
 
-*Include screenshot:* `safezone_map.png`  
+![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/SafeZone.jpeg)
+
+---
+
+### 5️⃣ Navigation Map Screen
+
+- Allows users to access real-time navigation services.  
+- Redirects the user to **Google Maps** using the ActivityStarter component.  
+- Users can choose their destination directly in Google Maps.
+
+![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/mapscreen1.jpeg)
+
+![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/mapscreen2.jpeg)
 
 ---
 
