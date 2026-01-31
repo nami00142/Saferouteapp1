@@ -65,9 +65,9 @@ While many navigation apps help with directions, few focus on **user safety in e
 
 ### 2️⃣ Home Screen
 - Three main options: **Safe Route**, **Emergency**, **Safe Zone**.  
-- Clean, user-friendly layout for quick access to safety features.  
+- Clean, user-friendly layout for quick access to safety features.
 
-*Include screenshot:* `home_screen.png`  
+ ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/SafeRoute%20Homescreen.jpeg)
 
 ---
 
@@ -76,7 +76,9 @@ While many navigation apps help with directions, few focus on **user safety in e
 - 10-second countdown before sending SOS.  
 - Buttons for **Police** and **Women’s Help Line** calls.  
 
-*Include screenshot:* `emergency_screen.png`  
+ ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/emergency%20screen%201.jpeg)
+ ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/SOS%20message.jpeg)
+ ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/Emergency%20screen%202.jpeg)
 
 ---
 
