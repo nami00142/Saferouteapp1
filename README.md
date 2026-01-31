@@ -104,5 +104,56 @@ While many navigation apps help with directions, few focus on **user safety in e
 
 ---
 
+## Frontend Design
+
+- Simple, intuitive UI with **clear icons** for safety features.  
+- Easy navigation between Home, Emergency, and Safe Zone screens.  
+- Responsive layout suitable for real-time use.  
+- Focus on **minimal steps** to trigger safety actions.  
+
+---
+
+## Backend Logic / Data Handling
+
+### Authentication
+- User credentials stored in **TinyDB**.  
+- Name and phone number used for identity verification.  
+
+### Emergency Detection Logic
+- **Accelerometer sensor** detects continuous phone shaking.  
+- Notification prompts user confirmation.  
+- **Countdown logic** triggers automatic SOS if not canceled.
+
+### Location Sharing
+- GPS coordinates fetched in real-time using **LocationSensor**.  
+- SOS message includes a **Google Maps clickable link**.  
+- Automatic messaging sent via SMS or social component.  
+
+### Safe Zone Logic
+- Maps component calculates nearest police stations using current location.  
+- Real-time display ensures actionable routing during emergencies.  
+
+---
+
+## Installation & Setup
+
+This project is developed using **MIT App Inventor** and is provided as a `.aia` project file.
+
+### Steps to Access the Application
+
+1. Download the [SafeRoute.aia](https://github.com/nami00142/Saferouteapp1/blob/main/SafeRoute%20(1).aia) file from this GitHub repository.
+2. Open your web browser and go to the MIT App Inventor website:  [MIT App Inventor](https://appinventor.mit.edu)
+3. Sign in using your Google account.
+4. Click on **Projects** → **Import project (.aia) from my computer**.
+5. Select the downloaded **SafeRoute.aia** file.
+6. The project will be loaded into MIT App Inventor and is ready to run or modify.
+
+### To Run the Application on a Mobile Device
+
+1. Install the **MIT AI2 Companion** app from the Google Play Store.
+2. Connect your mobile phone and computer to the same Wi-Fi network.
+3. In MIT App Inventor, click **Connect** → **AI Companion**.
+4. Scan the QR code using the MIT AI2 Companion app.
+5. The application will launch on your mobile device for testing.
 
 ---
