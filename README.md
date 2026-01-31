@@ -59,7 +59,9 @@ While many navigation apps help with directions, few focus on **user safety in e
 - User enters name and phone number to authenticate.  
 - Redirected to **Home Screen** after login.  
 
- ![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/WhatsApp%20Image%202026-01-31%20at%206.42.53%20PM%20(1).jpeg)
+![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/Saferoutescreen1.jpeg)
+
+![Splash Screen](https://github.com/nami00142/Saferouteapp1/blob/main/SafeRoute%20Loginscreen.jpeg)
 
 ---
 
